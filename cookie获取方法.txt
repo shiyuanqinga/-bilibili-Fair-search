@@ -1,0 +1,6 @@
+获取Cookie方法：
+1.访问https://mall.bilibili.com/neul-next/index.html?page=magic-market_index
+2.登录B站后打开开发者工具，edge浏览器为例，右键→检查（Chrome F12）
+3.在上方选择网络标签，在下方选择文档标签，然后刷新网页
+4.选中下方刷新出来的文档
+5.下拉找到cookie，复制cookie中的全部内容
